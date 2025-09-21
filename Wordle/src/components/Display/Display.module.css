@@ -1,0 +1,7 @@
+.section {
+  width: 300px;
+  display: flex;
+  gap: 0.4rem;
+  justify-content: space-between;
+  margin-bottom: 1em;
+}
